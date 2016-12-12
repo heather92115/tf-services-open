@@ -1,6 +1,6 @@
 # tf-services-open
 
-#Requires maven versin 3.
+#Requires maven version 3
 
 # To build:
 mvn install
